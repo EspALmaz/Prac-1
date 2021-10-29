@@ -57,12 +57,12 @@ In the process of doing this work, we have deepened our knowledge of HTMl, CSS a
 
 These are examples from our code that are the most successful and new to us:
 
-html
+```html
 <button type="submit">
 <img src="./images/icon-arrow.svg" alt="arrow">
 </button>
-
-css
+```
+```css
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
 body {
 background-color: #FFF5F5;;
@@ -71,13 +71,13 @@ padding: 0;
 margin: 0;
 display: block;
 }
-
-js
+```
+```js
 function validateEmail (email) {
 const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 return re.test(String(email).toLowerCase());
 }
-
+```
 
 
 
