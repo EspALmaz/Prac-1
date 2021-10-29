@@ -91,5 +91,5 @@ In the future, we are going to study various aspects of Javascript in more depth
 - (https://developer.mozilla.org/ru /) this resource also has a lot of useful articles on various topics , on this site we found answers to some of our questions.
 ## Author
 
-- Website - [Tashimov Almaz and Rinatova Madina] (https://espalmaz.github.io/Prac-1/ )()
+- Website - [Tashimov Almaz and Rinatova Madina] (https://espalmaz.github.io/Prac-1/ )( https://girllwhocodes.github.io/-/ )
 - Repository ( https://github.com/EspALmaz/Prac-1.git ) ()
