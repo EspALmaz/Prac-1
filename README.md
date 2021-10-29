@@ -92,4 +92,4 @@ In the future, we are going to study various aspects of Javascript in more depth
 ## Author
 
 - Website - [Tashimov Almaz and Rinatova Madina] (https://espalmaz.github.io/Prac-1/ )()
-- Repository (https://github.com/EspALmaz/Prac-1.git)()
+- Repository ( https://github.com/EspALmaz/Prac-1.git ) ()
